@@ -1,6 +1,4 @@
-# fmspic-uinput
-
-## Userspace joystick driver for FMSPIC RC Transmitter Adapter
+## fmspic-uinput: a uerspace joystick driver for FMSPIC RC Transmitter Adapter
 
 This is a userspace joystick driver for an RC transmitter connected to a serial port via a 9600 baud "FMS PIC" adapter cable.
 
